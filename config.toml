@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Awesome Lighting Inc."
+theme = "Kontol"
+themes= "Kontol"
+[Params]
+description = ""
